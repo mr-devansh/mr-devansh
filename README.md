@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mr-devansh
 - 👀 I’m interested in Artificial Intelligence.
-- 🌱 I’m currently learning full stack, ML / DS, Python and Data Structures.
-- 💞️ I’m looking to collaborate on web development
+- 🌱 I’m currently learning ML, and Data Structures.
+- 💞️ I’m looking to collaborate on DSA
 - 📫 How to reach me devu0996@gmail.com
 
 <!---
