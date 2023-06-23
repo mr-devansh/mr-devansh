@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-devansh" alt="mr-devansh" /></a> </p>
 
-- 🔭 I’m currently working on Blockchain **blockchain, cryptocurrency, smart contract**
+- 🔭 I’m currently working on **blockchain, cryptocurrency, smart contract**
 
-- 🌱 I’m currently learning **blockchain using python**
+- 🌱 I’m currently learning **DSA using java**
 
 - 🤝 I’m looking for help with **blockchain**
 
