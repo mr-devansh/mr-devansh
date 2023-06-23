@@ -12,7 +12,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-devansh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mr-devansh&theme=radical&no-frame=false&no-bg=false&margin-w=6)
+![](https://github-profile-trophy.vercel.app/?username=mr-devansh&theme=radical&no-frame=false&no-bg=false&margin-w=8)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
