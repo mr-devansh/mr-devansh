@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on blockchain, cryptocurrency, smart contract<br><br>🌱 I’m currently learning DSA using java<br><br>🤝 I’m looking for help with blockchain<br><br>👨‍💻 All of my projects are available at https://github.com/mr-devansh<br><br>💬 Ask me about java, python<br><br>📫 How to reach me devu0996@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1sxqmfz9Jfr5-H656HYvNA_LI5NDPITEf/view?usp=drive_link<br><br>⚡ Fun fact I think I have a good humour
-
+🔭 I’m currently working on blockchain, cryptocurrency, smart contract<br><br>🌱 I’m currently learning DSA using java<br><br>🤝 I’m looking for help with blockchain<br><br>👨‍💻 All of my projects are available at https://github.com/mr-devansh<br><br>💬 Ask me about java, python<br><br>📫 How to reach me devu0996@gmail.com<br><br>📄 Know about my experiences [![Here](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)]([https://instagram.com/_devansh_singh_21/](https://drive.google.com/file/d/1sxqmfz9Jfr5-H656HYvNA_LI5NDPITEf/view?usp=drive_link))<br><br>⚡ Fun fact I think I have a good humour
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_devansh_singh_21/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-devansh-/) 
