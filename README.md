@@ -9,15 +9,16 @@
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=mr-devansh&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&custom_title=Github's status" height="150" alt="stats graph"  /> -->
   <img src="https://streak-stats.demolab.com?user=mr-devansh&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-devansh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" height="150" alt="languages graph"  />
+<img align="right" height="150" src="https://media1.giphy.com/media/64xj5tJgl41jNl97EZ/giphy.gif?cid=ecf05e47zb37lebweimj1py33hx0d2vv6dfznyx1xe0yhj3w&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+  
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media1.giphy.com/media/64xj5tJgl41jNl97EZ/giphy.gif?cid=ecf05e47zb37lebweimj1py33hx0d2vv6dfznyx1xe0yhj3w&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
@@ -67,7 +68,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="mailto:devu0996@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
