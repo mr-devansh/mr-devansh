@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Devansh Singh <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
-<div align="center">
-<h3> 🔭 I’m currently working on blockchain, cryptocurrency, smart contract<br><br>🌱 I’m currently learning DSA using java<br><br>🤝 I’m looking for help with blockchain<br><br><br><br>💬 Ask me about java, python<br><br>📫 How to reach me devu0996@gmail.com<br><br>📄 Know about my experiences [here](https://drive.google.com/file/d/1sxqmfz9Jfr5-H656HYvNA_LI5NDPITEf/view?usp=drive_link)<br><br>⚡ Fun fact I think I have a good humour</h3>
+<div align="leftcenter">
+<h3> 🔭 I’m currently working on blockchain, cryptocurrency, smart contract<br><br>🌱 I’m currently learning DSA using java<br><br>🤝 I’m looking for help with blockchain<br><br>💬 Ask me about java, python<br><br>📫 How to reach me devu0996@gmail.com<br><br>📄 Know about my experiences [here]("https://drive.google.com/file/d/1sxqmfz9Jfr5-H656HYvNA_LI5NDPITEf/view?usp=drive_link")<br><br>⚡ Fun fact I think I have a good humour</h3>
 </div>
-###
+
 
 <br clear="both">
 
@@ -15,10 +15,6 @@
   
 </div>
 
-###
-
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -68,7 +64,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="amazonwebservices logo"  />
 </div>
 
-###
 
 <div align="center">
   <a href="mailto:devu0996@gmail.com" target="_blank">
@@ -88,10 +83,8 @@
   </a>
 </div>
 
-###
 
 <br clear="both">
 
 <!-- <img src="https://raw.githubusercontent.com/mr-devansh/mr-devansh/output/snake.svg" alt="Snake animation" /> -->
 
-###
