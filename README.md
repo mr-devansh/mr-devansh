@@ -1,11 +1,12 @@
-<h2 align="center">Hi 👋! My name is Devansh Singh and I'm a 4th year B.Tech student pursuing Computer Science Engineering in specialization with Artificial Intelligence, from Noida Institute of Engineering and technology.</h2>
+<h2> align="center">Hi 👋! My name is Devansh Singh</h2>
+<h3> I'm a 4th year B.Tech student pursuing Computer Science Engineering in specialization with Artificial Intelligence, from Noida Institute of Engineering and technology.</h3>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-devansh&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&custom_title=Github's status" height="150" alt="stats graph"  />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=mr-devansh&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&custom_title=Github's status" height="150" alt="stats graph"  /> -->
   <img src="https://streak-stats.demolab.com?user=mr-devansh&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-devansh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" height="150" alt="languages graph"  />
 </div>
@@ -91,6 +92,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mr-devansh/mr-devansh/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/mr-devansh/mr-devansh/output/snake.svg" alt="Snake animation" /> -->
 
 ###
