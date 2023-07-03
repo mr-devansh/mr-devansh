@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h5 align="left"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Hi, I'm Devansh Singh <br><br>🔭 I’m currently working on blockchain<br><br>🌱 I’m currently learning DSA using java<br><br>🤝 I’m looking for help with Solidity<br><br>💬 Ask me about java, python<br><br>📫 Reach me at devu0996@gmail.com<br><br>⚡ Fun fact I think I have a good humour</h5>
+<h2 align="left"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Hi, I'm Devansh Singh <br><br>🔭 I’m currently working on blockchain<br><br>🌱 I’m currently learning DSA using java<br><br>🤝 I’m looking for help with Solidity<br><br>💬 Ask me about java, python<br><br>📫 Reach me at devu0996@gmail.com<br><br>⚡ Fun fact I think I have a good humour</h2>
 
 ###
 
@@ -50,7 +50,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="mailto:devu0996@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
