@@ -9,7 +9,7 @@
 <div align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=mr-devansh&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&custom_title=Github's status" height="150" alt="stats graph"  /> -->
   <img src="https://streak-stats.demolab.com?user=mr-devansh&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-devansh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" PAT_1="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" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-devansh&locale=en&PAT_1=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&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" height="150" alt="languages graph"  />
 <img align="right" height="150" src="https://media1.giphy.com/media/64xj5tJgl41jNl97EZ/giphy.gif?cid=ecf05e47zb37lebweimj1py33hx0d2vv6dfznyx1xe0yhj3w&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
 </div>
 
