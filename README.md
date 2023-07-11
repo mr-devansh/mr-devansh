@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Hi, I'm Devansh Singh <br><br>🔭 I’m currently working on Machine Learning<br><br>🌱 I’m currently learning ML using Python<br><br>🤝 I’m looking for help with Solidity<br><br>💬 Ask me about java, python<br><br>📫 Reach me at devu0996@gmail.com<br><br>⚡ Fun fact I think I have a good humour</h2>
+<h2 align="left"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Hi, I'm Devansh Singh <br><br>🔭 I’m currently working on improvising myself<br><br>🌱 I’m currently learning ML using Python<br><br>🤝 I’m looking for help with Solidity<br><br>💬 Ask me about java, python<br><br>📫 Reach me at devu0996@gmail.com<br><br>⚡ Fun fact I think I have a good humour</h2>
 
 ###
 
